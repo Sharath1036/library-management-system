@@ -1,4 +1,4 @@
-Tech Stack: MySQL
+Tech Stack: MySQL <br>
 Tool: MySQL Workbench
 
 Sample screenshots
