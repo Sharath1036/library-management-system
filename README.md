@@ -1,5 +1,9 @@
-Tech Stack: MySQL <br>
-Tool: MySQL Workbench
+<h1>Library Management System</h1>
+<hr>
+
+
+<h3>Tech Stack: MySQL <br>
+Tool: MySQL Workbench</h1>
 
 Sample screenshots
 
